@@ -1,0 +1,76 @@
+body {background-color: #221f1f;}
+
+a:link {color: pink; font-size: 15px; text-decoration: underlined; font-family: verdana;}
+a:visited {color: black; font-size: 15px; text-decoration: none; font-family: verdana;}
+a:hover {color: white; font-size: 15px; text-decoration: underline; font-family: verdana;}
+
+
+div {margin: 0 auto; width:320px; float: center;}
+#smallscaletwo {width:800px;}
+.build {position: absolute; top: 600px; left: 500px;}
+
+ 
+#logo img{margin-left: 550px; margin-top: 0px; z-index:1000; width:100px;}
+  
+#pageone {background-image: url("../animation/background.gif"); background-color: #221f1f; background-size: 100% 100%;}
+
+section {display:block; max-width: 1000px; margin:0 auto;}
+#guardian img{display:block; position:relative; max-width:500px; margin: 0 auto;}
+#guardian a img {width:30px; position: relative; left:-250px; top:350px;}
+#rightarrow a img {width:30px; position:relative; margin:0 auto; margin-left:800px; margin-top:-250px}
+
+#pagetwo {background-image: url("../animation/background.gif"); background-color: #221f1f; background-size: 100%;}
+#materialtitle {width:300px; position:relative; margin-left: 350px;}
+#material a img {width:30px; position: relative; left:-500px; top:150px;}
+#rightarrowmaterial a img {width:30px; position:relative; margin:0 auto; margin-left:800px; margin-top:110px}
+
+#scissor img {position:relative; width:125px;left:300px; top:-150px;}
+#paper img {position:relative; width:125px;left: 500px; top: -315px;}
+#tape img {position:relative; width:125px; left: 635px; top: -300px;}
+#tablet img {position:relative; width:125px; left: 250px;top: -325px;}
+#water img {position:relative; width:125px; left: 450px; top: -700px;}
+#glasses img {position:relative; width:125px;left:350px; top:-300px}
+#film img {position:relative; width:125px; left: 550px; top:-450px;}
+#lablematerial img {position:relative; left: 350px; top:-550px;}
+
+#pagethree {background-image: url("../animation/background.gif"); background-color: #221f1f; background-size: 100%;}
+#preptitle {width:400px; position:relative; margin-left: 350px;}
+#prep a img {width:30px; position: relative; left:-500px; top:300px;}
+#rightarrowprep a img {width:30px; position:relative; margin:0 auto; margin-left:800px; margin-top:250px}
+
+#cutpaper {position:relative; margin-left:250px; margin-top:-350px; z-index: -1;}
+#lablepagethree{top:-200px;margin-left:400px;}
+
+#pagefour{background-image: url("../animation/background.gif"); background-color: #221f1f; background-size: 100%;}
+#tape a img {width:30px; position: relative; left:0px; top:300px;}
+#arrowtape a img {width:30px; position:relative; margin:0 auto; margin-left:800px; margin-top:250px}
+
+#tapeanimation {position:relative; margin-left:200px; margin-top:-350px; z-index: -1;}
+#tapeanimation img {width:500px;}
+#lablepagefour{top:-300px; margin-left:275px;}
+
+#pagefive{background-image: url("../animation/background.gif"); background-color: #221f1f; background-size: 100%;}
+#final a img {width:30px; position: relative; left:0px; top:300px;}
+#arrowfinal a img {width:30px; position:relative; margin:0 auto; margin-left:800px; margin-top:250px}
+
+#finalimg {position:relative; margin-left:200px; margin-top:-350px; z-index: -1;}
+#finalimg img {width:500px;}
+#lablepagefour{top:-300px; margin-left:275px;}
+
+#pagesix{background-image: url("../animation/background.gif"); background-color: #221f1f; background-size: 100%;}
+#launch a img {width:30px; position: relative; left:0px; top:300px;}
+#arrowlaunch a img {width:30px; position:relative; margin:0 auto; margin-left:800px; margin-top:250px}
+
+#launchimg {position:relative; margin-left:200px; margin-top:0px; z-index: -1;}
+#launchimg img {width:400px;}
+#launchtitle {position:relative; margin-left:210px; margin-top: -350px;}
+#lablepagefour{top:-300px; margin-left:275px;}
+
+#pageseven{background-image: url("../animation/background.gif"); background-color: #221f1f; background-size: 100%;}
+#why a img {width:30px; position: relative; left:0px; top:300px;}
+#arrowwhy a img {width:30px; position:relative; margin:0 auto; margin-left:800px; margin-top:250px}
+
+
+#whyp p {padding-left:10px; padding-top:10px; padding-bottom: 10px; width:500px; font-family: helvetica;}
+#whyp {color: #102b38; background: rgba(191, 208, 216, 0.7); width:550px; margin-left:150px; margin-top: -350px;}
+#whytitle {margin-left:170px;}
